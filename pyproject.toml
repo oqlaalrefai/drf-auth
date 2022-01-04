@@ -2,7 +2,7 @@
 name = "drf-auth"
 version = "0.1.0"
 description = ""
-authors = ["MusaabShalaldeh <musaabsh65@yahoo.com>"]
+authors = ["oqlaalrefai <20159780545@ses.yu.edu.jo>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
